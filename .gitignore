@@ -1,0 +1,16 @@
+node_modules
+dist
+dist-ssr
+*.log
+*.local
+.env
+.env.*
+!.env.example
+.DS_Store
+.vscode/*
+!.vscode/extensions.json
+.idea
+public/_import/
+public/kit/*
+!public/kit/manifest.json
+_backup*/
