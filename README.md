@@ -6,6 +6,12 @@ Drop in a video, pick a look, approve the preview, export. ReelCraft cuts the pa
 
 Everything runs locally in the browser. No account is required: transcription uses Whisper in the browser, export uses a local canvas renderer, and the optional AI pilot works with any provider, including Ollama running on your own machine.
 
+<p align="center"><img src="docs/demo.gif" width="270" alt="ReelCraft premium scenes animating on a 9:16 reel"></p>
+
+![Six of the 15 built-in premium scenes](docs/scenes.png)
+
+![The ReelCraft home screen: add a video, pick a look, export](docs/home.png)
+
 ## Quick start
 
 ```bash
